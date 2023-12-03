@@ -60,7 +60,8 @@ Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorfl
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taiwrash&theme=dark" alt="Rasheed Mudasiru" /></p>
+<p><img align="center"  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only)
+ alt="Rasheed Mudasiru" /></p>
   </div>
 
  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only)
