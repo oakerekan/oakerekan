@@ -53,12 +53,11 @@ Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorfl
    
 
 
-<div align="center">
+
  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only) 
   ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-light-mode-only)
 
-  </div>
 
  
