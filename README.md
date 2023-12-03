@@ -63,9 +63,10 @@ Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorfl
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taiwrash&theme=dark" alt="Rasheed Mudasiru" /></p>
   </div>
 
- [![Taiwrash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Taiwrash&theme=xcode)](https://github.com/Taiwrash)
+ ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-light-mode-only)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/Taiwrash.svg?style=social&label=Follow)](https://github.com/Taiwrash?tab=followers)
-![](./prof.gif)
+![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-light-mode-only)![](./prof.gif)
