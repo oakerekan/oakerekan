@@ -4,7 +4,7 @@
 
 <h1 align="center">About Me ⚡</h1>
 
-I am a **Data Engineer** passionate about **solving problems** using **technologies**. I ensure that data systems are optimized and function effectively. My interest varies from generating great insight from your data and maximising business profitability. 
+I am a **Data Engineer** passionate about **solving problems** using **technologies**. I ensure that data systems are optimized and function effectively. My interest varies from generating great insights from your data to maximizing **business profitability**. 
 
 <h3 align="center"> Data Analyst | Data Scientist  | Machine Learning | Data Engineer</h3>
 
@@ -45,7 +45,7 @@ Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorfl
 
 
 <a  href="https://www.linkedin.com/in/olayinkaakerekan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/_data-alchemist" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/_data_alchemist" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:olayinkagaiusakerekan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/oakerekan"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
    
