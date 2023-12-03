@@ -1,4 +1,4 @@
-![](./prof.gif)
+![Header](./github-header-image.png)
 <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/olayinkaakerekan/" target="_blank"> Olayinka Akerekan </a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
