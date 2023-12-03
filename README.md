@@ -51,23 +51,21 @@ Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorfl
    
 </div>   
    
-<table>
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=Taiwrash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rasheed Mudasiru" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taiwrash&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rasheed Mudasiru" /></td>
-  </tr>
-</table>
+
 
 <div align="center">
-<p><img align="center"  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only)
- alt="Rasheed Mudasiru" /></p>
+<p><img align="center"  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only) 
+ alt="Olayinka Akerekan" /></p>
+
+   <p><img align="center"  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-light-mode-only)
+ alt="Olayinka Akerekan" /></p>
   </div>
+<div align="center">
+<p><img align="center"  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
- ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-light-mode-only)
-   
-   
+ alt="Olayinka Akerekan" /></p>
 
-![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-light-mode-only)![](./prof.gif)
+   <p><img align="center"  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-light-mode-only)
+
+ alt="Olayinka Akerekan" /></p>
+  </div>
