@@ -1,5 +1,5 @@
 
-<img src="/github-header-image.png" alt="Header Image" style="width: 100%; height: auto;>
+<img src="github-header-image.png" alt="Header Image" style="width: 100%; height: auto;>
 
 <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/olayinkaakerekan/" target="_blank"> Olayinka Akerekan </a></h1>
 <h1 align="center">About Me ⚡</h1>
