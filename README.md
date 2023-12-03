@@ -1,10 +1,3 @@
-img {
-  width: 100%;
-  height: auto;
-  max-width: 100%;
-  display: block;
-  margin: auto;
-}
 
 <img class="img" src="/github-header-image.png" alt="Header Image">
 
