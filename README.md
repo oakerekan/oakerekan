@@ -4,7 +4,7 @@
 
 <h1 align="center">About Me ⚡</h1>
 
-I am a **Data Engineer** passionate about **solving problems** using **technologies**.I ensure that data systems are optimized and function effectively. 
+I am a **Data Engineer** passionate about **solving problems** using **technologies**. I ensure that data systems are optimized and function effectively. My interest varies from generating great insight from your data and maximising business profitability. 
 
 <h3 align="center"> Data Analyst | Data Scientist  | Machine Learning | Data Engineer</h3>
 
