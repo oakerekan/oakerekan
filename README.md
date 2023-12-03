@@ -8,7 +8,7 @@ I am a **Data Engineer** passionate about **solving problems** using **technolog
 
 <h3 align="center"> Data Analyst | Data Scientist  | Machine Learning | Data Engineer</h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=oakerekan&label=Profile%20views&color=6805D3&style=flat" alt="Taiwrash" /></p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=oakerekan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Taiwrash" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
