@@ -14,7 +14,7 @@ I am a **Data Engineer** passionate about **solving problems** using **technolog
 <h1>Technical Skills 🛠</h1>
    
 Languages: Python, R, SQL.
-Soft Skills: Communication, Problem-Solving, Agile Technology, Teamwork, Presentation Skills.
+Soft Skills: Communication, Problem-Solving, Agile Technology, Teamwork, Presentation Skills.<br>
 Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorflow, AWS, dbt. 
 
 
