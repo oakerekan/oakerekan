@@ -4,7 +4,7 @@
 <!-- <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/olayinkaakerekan/" target="_blank"> Olayinka Akerekan </a></h1> -->
 <h1 align="center">About Me ⚡</h1>
 
-I am a **Data Engineer** passionate about **solving problems** using **technologies**. I ensure that data systems are optimized and function effectively. My interest varies from generating great insights from your data to maximizing **business profitability**. I currently work in healthcare and  read about stoicism and Christian literature. 
+I am a **Data Engineer** passionate about **solving problems** using **technologies**. I ensure that data systems are optimized and function effectively. My interest varies from generating great insights from your data to maximizing **business profitability**. I currently work in healthcare and love read about Stoicism and Christianity . 
 
 <h3 align="center"> Data Analyst | Data Scientist  | Machine Learning | Data Engineer</h3>
 
